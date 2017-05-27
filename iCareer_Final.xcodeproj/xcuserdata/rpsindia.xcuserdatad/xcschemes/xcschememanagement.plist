@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>iCareer_Final.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>68A76F9B1ED9F5BF008D1D72</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>68A76FB21ED9F5BF008D1D72</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>68A76FBD1ED9F5BF008D1D72</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
